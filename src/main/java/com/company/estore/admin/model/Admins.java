@@ -34,6 +34,8 @@ public class Admins {
 		this.addedOn = addedOn;
 	}
 
+	//getter and setter methods
+			
 	public int getAdminId() {
 		return adminId;
 	}
